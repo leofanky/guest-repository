@@ -1,3 +1,5 @@
 # Guest Book
 - Vladimir Mazin
-Ivan Melo 
+- Jeremy Sampson
+- Pranav Joy
+- Ivan Melo
